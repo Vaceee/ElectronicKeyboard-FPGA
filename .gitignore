@@ -1,0 +1,10 @@
+# docs
+*.docx
+*.pdf
+*.pptx
+*.zip
+*.drawio
+*.mp4
+
+# binarys
+*.tmp
